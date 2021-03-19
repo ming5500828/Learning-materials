@@ -12,5 +12,5 @@
 
 【5】极客大学小马哥Java实战[清晰版联系微信Big_Ai_Data](https://pan.baidu.com/s/1v6qePuFopfe9ImuU2PqGQQ)提取码：9bf8 
 
-【6】开课吧Java架构师第七期[清晰版联系微信Big_Ai_Data](https://pan.baidu.com/s/1qjIYS2fw1XeMaUhIKaWfKg)提取码：xaoo 
+【6】开课吧Java架构师第七期[清晰版联系微信Big_Ai_Data](https://pan.baidu.com/s/14yH3jAWQ9_htHVEohh6KJw)提取码：fmq3 
 
