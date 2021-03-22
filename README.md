@@ -14,3 +14,20 @@
 
 【6】开课吧Java架构师第七期[清晰版联系微信Big_Ai_Data](https://pan.baidu.com/s/14yH3jAWQ9_htHVEohh6KJw)提取码：fmq3 
 
+## 人工智能
+【0】贪心学院NLP训练营第七期[清晰版联系微信Big_Ai_Data](https://pan.baidu.com/s/1lXvWpojFIpRGpA1XFsNX7w)提取码：kois
+
+【1】贪心京东NLP联合训练营
+
+【2】贪心高阶推荐系统工程师一期
+
+【3】贪心高阶-AI架构师
+
+【4】贪心高阶机器学习
+
+【5】唐宇迪行人重识别、物体检测系列全套
+
+【6】深蓝学院语音算法系咧
+
+## Python & GO
+【0】
