@@ -1,5 +1,5 @@
 # 免费!免费!!免费开账号!!!
-# 以下并不是全部课程，如失效请联系底端名片
+# 以下并不是全部课程，如失效请联系VX名片Big_Ai_Data
 ## Java
 【0】[图灵学院Java架构师严选课第四期](https://pan.baidu.com/s/1lXvWpojFIpRGpA1XFsNX7w)提取码：kois
 
