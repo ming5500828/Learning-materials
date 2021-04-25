@@ -45,34 +45,38 @@
 
 【5】[中文网 go](https://pan.baidu.com/s/1vATXiTBrPAGIunn3E_xDqQ )提取码：zrwm
 
+【6】[极客 Go进阶](https://pan.baidu.com/s/1kvK7WP0HYPRNMXAnqbxDuQ )提取码：8zk6
+
+【7】[python+Go双语言混合开发](https://pan.baidu.com/s/1koTE985LLX_aIpBSj7DjcQ )提取码：1n61
+
 ## 量化交易
 【0】[开课吧ai量化交易培养计划](https://pan.baidu.com/s/1UILHdQKIG46r_xpB2vpb7A )提取码：9gny
 
-【1】网易微专业AI量化交易精英班 近期补充
+【1】[网易微专业AI量化交易精英班](https://pan.baidu.com/s/1eBiSqOLYB4sihLTSRb8OcQ )提取码：868p
 
-【2】Python机器学习与量化交易、定价高级训练营 近期补充
+【2】[Python机器学习与量化交易、定价高级训练营](https://pan.baidu.com/s/1j_RpRSHSsri9XVNrCLnpUA )提取码：ttxf
 
-【3】Python金融数据分析高级训练营 近期补充
+【3】[Python金融数据分析高级训练营](https://pan.baidu.com/s/1Z7Lt60uNX71wjc_EqJ9B4w )提取码：9g6l
 
 ## 大数据
 【0】[奈学大数据架构师](https://pan.baidu.com/s/1weckmrrJKAmYkfT1sprPKg )提取码：pdqc
 
-【1】奈学企业级资深大数据 近期补充
+【1】[奈学企业级资深大数据](https://pan.baidu.com/s/1hepxE653PJipCh2VKupCxQ )提取码：f3e7
 
-【2】亿级用户行为之大数据实时分析 近期补充
+【2】[亿级用户行为之大数据实时分析](https://pan.baidu.com/s/151yGz991GbHrLeeqv3DZwQ )提取码：h1e6
 
-【3】奈学百万年薪大数据架构 近期补充
+【3】[奈学大数据研发一期](https://pan.baidu.com/s/10jPnGsPWkx4IusGaGVBDOA )提取码：y97y
 
-【4】开课吧大数据开发工程师 近期补充
+【4】[开课吧大数据开发工程师](https://pan.baidu.com/s/1eBiSqOLYB4sihLTSRb8OcQ )提取码：868p
 
-【5】大讲台-大数据精英班三期 近期补充
+【5】[大讲台-大数据精英班三期](https://pan.baidu.com/s/1l_lbH15gw8hcbZfUQa-LKg )提取码：407u
 
-【6】大讲台-大数据运维 近期补充
+【6】[大讲台-大数据运维](https://pan.baidu.com/s/1j9SF_hGZNJ8hmwB1U4c_4Q )提取码：o1da
 
 ## 前端
 【0】[慕课网-大前端](https://pan.baidu.com/s/1hsazt7torKXtWXEujcOTvA)提取码：1ozn
 
-【1】开课吧 JavaScript高级进阶之路 近期补充
+【1】[开课吧 JavaScript高级进阶之路](https://pan.baidu.com/s/1Onb7wHHIpW1A_lj7KnM-NQ )提取码：eo88
 
 ## 极客时间大部分课程
 
