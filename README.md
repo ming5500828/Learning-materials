@@ -20,7 +20,7 @@
 
 【1】[贪心京东NLP联合训练营](https://pan.baidu.com/s/1RTjYBWV193Bk2DryfznrUA )提取码：3afs
 
-【2】[贪心高阶推荐系统工程师一期](https://pan.baidu.com/s/1eBiSqOLYB4sihLTSRb8OcQ )提取码：868p
+【2】[贪心高阶推荐系统工程师一期](https://pan.baidu.com/s/1ELCSkf0zhN2C35KV80v_-w)提取码：pito
 
 【3】[贪心高阶-首席AI架构师](https://pan.baidu.com/s/1Ofs_o_WVV893YZ80ow-YNw )提取码：iy88
 
